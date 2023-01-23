@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Chaar Kadam",
+      "artist": " Shaan and Shreya Ghoshal",
+      "img": "../img/song_01.jpg",
+      "music": "../music/chaar_kadam.mpeg"
+    },
+    {
+      "name": "Kuch Na Kahoo..",
+      "artist": " Sanam",
+      "img": "../img/song_2.jpg",
+      "music": "../music/Kuch_na_kaho.mpeg"
+    },
+    {
+      "name": "Retro Mashup",
+      "artist": "Rafi, lata...",
+      "img": "../img/song_3.jpg",
+      "music": "../music/retro_mashup.mpeg"
+    }
+  ]
